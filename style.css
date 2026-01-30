@@ -679,14 +679,6 @@ img {
             color: #ecf0f1;
         }
         
-        .conclusion p {
-            font-size: 1.2rem;
-            max-width: 800px;
-            margin: 0 auto;
-            opacity: 0.9;
-            line-height: 1.8;
-        }
-        
         .tag {
             display: inline-block;
             background: #3498db;
