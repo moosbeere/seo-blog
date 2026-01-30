@@ -663,16 +663,6 @@ img {
             gap: 10px;
         }
         
-        .conclusion {
-            background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
-            color: white;
-            padding: 40px;
-            border-radius: 20px;
-            text-align: center;
-            margin-top: 40px;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
-        }
-        
         .conclusion h2 {
             font-size: 2rem;
             margin-bottom: 20px;
