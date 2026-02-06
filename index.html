@@ -18,13 +18,26 @@
     
     <title>Практическое применение искусственного интеллекта</title>
     <link rel="stylesheet" href="style.css">
-    <script type="application/ld+json">
-    {
-    "@context": "https://schema.org", // ВСЕГДА первая строка
-    "@type": "NewsArticle", // Тип данных
-    // свойства...
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org", //ресурс schema.org
+  "@graph": [ //сразу несколько типов
+    {//тип 1
+      "@type": "WebPage", //описание что за сайт
+      "name": "SEO Блог",
+      "description": "Практические советы по SEO и продвижению бизнеса",
+      "url": "https://resultup.agency/blog"
+    },
+    {//тип 2
+      "@type": "Blog", //описание блога (на странице блога использовать)
+      "name": "SEO Meat блог",
+      "description": "Обучение и материалы по SEO-оптимизации",
+      "url": "https://seomeat.ru/blog"
     }
-    </script>
+  ]
+}
+</script>
+
 </head>
 <body>
     <!-- Шапка с логотипом и меню -->
