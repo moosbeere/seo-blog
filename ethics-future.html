@@ -30,6 +30,22 @@
     <script type="application/ld+json">
 {
   "@context": "https://schema.org", //ресурс schema.org,
+  "@type": "BreadcrumbList", //тип хлебные крошки
+  "itemListElement": [ //событие списка
+    {
+      "@type": "ListItem", //элемент списка
+      "position": 1, //нумерация позиций
+      "name": "Как работает", //название
+      "item": "https://seo-blog-psi.vercel.app/how-it-works.html" //ссылка
+    },
+{
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Применение",
+      "item": "https://seo-blog-psi.vercel.app/applications.html"
+    }
+  ]
+
     "@type": "Organization",
     "name": "Apple.inc",
     "address": {
