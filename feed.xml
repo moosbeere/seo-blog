@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <!-- Информация о канале -->
+         <title>Что такое ИИ?</title>
+         <link>https://seo-blog-psi.vercel.app/</link>
+         <description>Применение искусственного интеллекта в технике. Справочный материал для колледжа города Ивантеевка</description>
+         <language>ru</language>
+         <lastBuildDate>Fri, 27 Feb 2026 10:34:00 +0300</lastBuildDate>
+         <item>
+            <title>Что такое ИИ?</title>
+            <link>https://seo-blog-psi.vercel.app/</link>
+            <description>Применение искусственного интеллекта в технике. Справочный материал для колледжа города Ивантеевка</description>
+            <pubDate>Fri, 27 Feb 2026 10:34:00 +0300</pubDate>
+            <guid>https://seo-blog-psi.vercel.app/</guid>
+         </item>
+         <item>
+            <title>В чем заключается применение облачных технологий</title>
+            <link>https://seo-blog-psi.vercel.app/ethics-future.html</link>
+            <description>Применение искусственного интеллекта в технике</description>
+            <pubDate>Fri, 27 Feb 2026 10:34:00 +0300</pubDate>
+            <guid>https://seo-blog-psi.vercel.app/ethics-future.html</guid>
+         </item>
+         <item>
+            <title>Как пользоваться нейросетью для создания изображений?</title>
+            <link>https://seo-blog-psi.vercel.app/how-it-works.html</link>
+            <description>Применение искусственного интеллекта в технике</description>
+            <pubDate>Fri, 27 Feb 2026 10:34:00 +0300</pubDate>
+            <guid>https://seo-blog-psi.vercel.app/how-it-works.html</guid>
+         </item>
+         <item>
+            <title>Как пользоваться яндекс вордстат для анализа спроса</title>
+            <link>https://seo-blog-psi.vercel.app/applications.html</link>
+            <description>Применение искусственного интеллекта в технике</description>
+            <pubDate>Fri, 27 Feb 2026 10:34:00 +0300</pubDate>
+            <guid>https://seo-blog-psi.vercel.app/applications.html</guid>
+         </item>
+    </channel>
+</rss>
